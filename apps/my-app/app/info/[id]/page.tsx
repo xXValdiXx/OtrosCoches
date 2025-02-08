@@ -1,10 +1,9 @@
 import { Car } from "../../../../functions/interfaces/carInterface";
 
-// El parámetro params es una promesa que debe resolverse.
 export default async function CarDetailPage({params,}: { params: Promise<{ id: string }>;}) {
-    const { id } = await params;  // Esperamos a que la promesa se resuelva
+    const { id } = await params;
 
-    const data = await fetch(`http://127.0.0.1:5001/coches-mto/us-central1/api/cars/${id}`);
+    const data = await fetch(`https://api-nomxiko2oa-uc.a.run.app/cars/${id}`);
     if (!data.ok) {
         throw new Error(`Error fetching car data: ${data.statusText}`);
     }

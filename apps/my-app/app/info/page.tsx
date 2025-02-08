@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { Car } from "../../../../packages/zion/interfaces/carInterface";
+import { Car } from '../../../../packages/zion/interfaces/carInterface';
 import Link from 'next/link';
 
 export default function Page() {
@@ -20,13 +20,13 @@ export default function Page() {
     const fetchCars = async (startAfterId?: string) => {
         setIsLoading(true);
         try {
-            const url = `http://127.0.0.1:5001/coches-mto/us-central1/api/cars?year=${currentYear}&filterYear=${filterYear}&limit=10${startAfterId ? `&startAfterId=${startAfterId}` : ''}`;
+            const url = `https://api-nomxiko2oa-uc.a.run.app/cars?year=${currentYear}&filterYear=${filterYear}&limit=10${startAfterId ? `&startAfterId=${startAfterId}` : ''}`;
             const response = await fetch(url);
             const data = await response.json();
 
             if (data.length < 10) setHasMore(false);
 
-            setCars(prevCars => [...prevCars, ...data]);
+            setCars(prevCars => (startAfterId ? [...prevCars, ...data] : data));
         } catch (error) {
             console.error('Error fetching cars:', error);
         } finally {
@@ -79,7 +79,7 @@ export default function Page() {
 
             {isLoading && <p className="text-center mt-4">Loading...</p>}
 
-            {hasMore && !isLoading && (
+            {hasMore && !isLoading && cars.length > 0 && (
                 <div className="flex justify-center mt-4">
                     <button
                         onClick={handleLoadMore}
