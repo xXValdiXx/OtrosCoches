@@ -18,7 +18,7 @@ describe("CarService", () => {
   });
 
   it("should add a car", async () => {
-    const car: Car = { color: "blue", services: ["whells"], id: "1", owner: "Valdi", model: "Corolla", year: 2020 };
+    const car: Car = { color: "blue", services: ["whells"], id: "1", owner: "Valdi", model: "Corolla", year: "2020" };
 
     carRepositoryMock.addCar.mockResolvedValue(car);
 
@@ -32,8 +32,8 @@ describe("CarService", () => {
 
   it("should get cars", async () => {
     const cars: Car[] = [
-      { color: "blue", services: ["whells"], id: "1", owner: "Valdi", model: "Corolla", year: 2020 },
-      { color: "red", services: ["other"], id: "2", owner: "Erik", model: "mazda", year: 2021 },
+      { color: "blue", services: ["whells"], id: "1", owner: "Valdi", model: "Corolla", year: "2020" },
+      { color: "red", services: ["other"], id: "2", owner: "Erik", model: "mazda", year: "2021" },
     ];
 
     carRepositoryMock.getCars.mockResolvedValue(cars);

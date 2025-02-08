@@ -1,0 +1,1005 @@
+[
+  {
+    "model": "Audi R8",
+    "color": "White",
+    "owner": "John",
+    "year": "2026",
+    "services": [
+      "cleaning",
+      "repair",
+      "insurance"
+    ]
+  },
+  {
+    "model": "Audi R8",
+    "color": "Green",
+    "owner": "David",
+    "year": "2027",
+    "services": [
+      "cleaning",
+      "repair"
+    ]
+  },
+  {
+    "model": "Lamborghini Huracan",
+    "color": "Green",
+    "owner": "Michael",
+    "year": "2020",
+    "services": [
+      "maintenance",
+      "verification"
+    ]
+  },
+  {
+    "model": "Audi R8",
+    "color": "Yellow",
+    "owner": "Sophia",
+    "year": "2023",
+    "services": [
+      "verification"
+    ]
+  },
+  {
+    "model": "Lamborghini Huracan",
+    "color": "Red",
+    "owner": "Sophia",
+    "year": "2026",
+    "services": [
+      "cleaning"
+    ]
+  },
+  {
+    "model": "Audi R8",
+    "color": "Red",
+    "owner": "Sophia",
+    "year": "2030",
+    "services": [
+      "verification"
+    ]
+  },
+  {
+    "model": "Mercedes-Benz AMG GT",
+    "color": "White",
+    "owner": "Linda",
+    "year": "2024",
+    "services": [
+      "cleaning",
+      "insurance",
+      "repair"
+    ]
+  },
+  {
+    "model": "BMW M4",
+    "color": "Red",
+    "owner": "David",
+    "year": "2030",
+    "services": [
+      "repair",
+      "cleaning",
+      "verification"
+    ]
+  },
+  {
+    "model": "BMW M4",
+    "color": "Green",
+    "owner": "Michael",
+    "year": "2027",
+    "services": [
+      "verification",
+      "maintenance"
+    ]
+  },
+  {
+    "model": "Lamborghini Huracan",
+    "color": "Silver",
+    "owner": "Michael",
+    "year": "2023",
+    "services": [
+      "cleaning",
+      "repair",
+      "verification"
+    ]
+  },
+  {
+    "model": "Mercedes-Benz AMG GT",
+    "color": "Silver",
+    "owner": "Maria",
+    "year": "2021",
+    "services": [
+      "cleaning"
+    ]
+  },
+  {
+    "model": "Mercedes-Benz AMG GT",
+    "color": "Yellow",
+    "owner": "David",
+    "year": "2021",
+    "services": [
+      "cleaning"
+    ]
+  },
+  {
+    "model": "Lamborghini Huracan",
+    "color": "White",
+    "owner": "David",
+    "year": "2021",
+    "services": [
+      "maintenance",
+      "cleaning",
+      "verification"
+    ]
+  },
+  {
+    "model": "Mercedes-Benz AMG GT",
+    "color": "Silver",
+    "owner": "Michael",
+    "year": "2030",
+    "services": [
+      "insurance",
+      "repair",
+      "maintenance"
+    ]
+  },
+  {
+    "model": "Porsche 911",
+    "color": "Black",
+    "owner": "Emma",
+    "year": "2028",
+    "services": [
+      "maintenance"
+    ]
+  },
+  {
+    "model": "Lamborghini Huracan",
+    "color": "White",
+    "owner": "Sophia",
+    "year": "2029",
+    "services": [
+      "verification"
+    ]
+  },
+  {
+    "model": "Lamborghini Huracan",
+    "color": "White",
+    "owner": "Michael",
+    "year": "2023",
+    "services": [
+      "insurance",
+      "cleaning",
+      "verification"
+    ]
+  },
+  {
+    "model": "BMW M4",
+    "color": "Green",
+    "owner": "Sophia",
+    "year": "2024",
+    "services": [
+      "repair",
+      "verification",
+      "cleaning"
+    ]
+  },
+  {
+    "model": "Mercedes-Benz AMG GT",
+    "color": "Blue",
+    "owner": "Emma",
+    "year": "2022",
+    "services": [
+      "maintenance"
+    ]
+  },
+  {
+    "model": "Mercedes-Benz AMG GT",
+    "color": "Red",
+    "owner": "David",
+    "year": "2028",
+    "services": [
+      "cleaning",
+      "verification"
+    ]
+  },
+  {
+    "model": "BMW M4",
+    "color": "Yellow",
+    "owner": "Michael",
+    "year": "2028",
+    "services": [
+      "verification",
+      "repair",
+      "maintenance"
+    ]
+  },
+  {
+    "model": "Mercedes-Benz AMG GT",
+    "color": "Black",
+    "owner": "John",
+    "year": "2023",
+    "services": [
+      "verification"
+    ]
+  },
+  {
+    "model": "Audi R8",
+    "color": "Red",
+    "owner": "Michael",
+    "year": "2027",
+    "services": [
+      "repair",
+      "cleaning"
+    ]
+  },
+  {
+    "model": "Porsche 911",
+    "color": "Silver",
+    "owner": "John",
+    "year": "2029",
+    "services": [
+      "cleaning",
+      "verification",
+      "insurance"
+    ]
+  },
+  {
+    "model": "Porsche 911",
+    "color": "Black",
+    "owner": "Linda",
+    "year": "2024",
+    "services": [
+      "verification",
+      "maintenance"
+    ]
+  },
+  {
+    "model": "Porsche 911",
+    "color": "Green",
+    "owner": "Maria",
+    "year": "2026",
+    "services": [
+      "verification"
+    ]
+  },
+  {
+    "model": "Lamborghini Huracan",
+    "color": "Green",
+    "owner": "Linda",
+    "year": "2024",
+    "services": [
+      "insurance",
+      "repair",
+      "verification"
+    ]
+  },
+  {
+    "model": "Lamborghini Huracan",
+    "color": "Yellow",
+    "owner": "David",
+    "year": "2030",
+    "services": [
+      "cleaning",
+      "verification"
+    ]
+  },
+  {
+    "model": "BMW M4",
+    "color": "Silver",
+    "owner": "Linda",
+    "year": "2022",
+    "services": [
+      "maintenance",
+      "verification"
+    ]
+  },
+  {
+    "model": "Audi R8",
+    "color": "Black",
+    "owner": "Joseph",
+    "year": "2026",
+    "services": [
+      "repair"
+    ]
+  },
+  {
+    "model": "Audi R8",
+    "color": "Yellow",
+    "owner": "Sophia",
+    "year": "2021",
+    "services": [
+      "maintenance",
+      "insurance"
+    ]
+  },
+  {
+    "model": "Mercedes-Benz AMG GT",
+    "color": "Red",
+    "owner": "John",
+    "year": "2030",
+    "services": [
+      "maintenance"
+    ]
+  },
+  {
+    "model": "Audi R8",
+    "color": "Silver",
+    "owner": "Emma",
+    "year": "2027",
+    "services": [
+      "maintenance"
+    ]
+  },
+  {
+    "model": "BMW M4",
+    "color": "White",
+    "owner": "Michael",
+    "year": "2029",
+    "services": [
+      "maintenance",
+      "insurance"
+    ]
+  },
+  {
+    "model": "Audi R8",
+    "color": "Yellow",
+    "owner": "Maria",
+    "year": "2030",
+    "services": [
+      "maintenance",
+      "cleaning",
+      "repair"
+    ]
+  },
+  {
+    "model": "BMW M4",
+    "color": "Yellow",
+    "owner": "Emma",
+    "year": "2028",
+    "services": [
+      "verification"
+    ]
+  },
+  {
+    "model": "Mercedes-Benz AMG GT",
+    "color": "Blue",
+    "owner": "Michael",
+    "year": "2029",
+    "services": [
+      "insurance",
+      "cleaning",
+      "verification"
+    ]
+  },
+  {
+    "model": "Mercedes-Benz AMG GT",
+    "color": "Blue",
+    "owner": "Maria",
+    "year": "2030",
+    "services": [
+      "maintenance"
+    ]
+  },
+  {
+    "model": "Porsche 911",
+    "color": "Blue",
+    "owner": "Maria",
+    "year": "2026",
+    "services": [
+      "maintenance",
+      "cleaning"
+    ]
+  },
+  {
+    "model": "BMW M4",
+    "color": "Silver",
+    "owner": "Maria",
+    "year": "2022",
+    "services": [
+      "repair",
+      "insurance",
+      "maintenance"
+    ]
+  },
+  {
+    "model": "Porsche 911",
+    "color": "Red",
+    "owner": "David",
+    "year": "2027",
+    "services": [
+      "cleaning",
+      "repair"
+    ]
+  },
+  {
+    "model": "BMW M4",
+    "color": "Blue",
+    "owner": "Sophia",
+    "year": "2028",
+    "services": [
+      "verification",
+      "cleaning"
+    ]
+  },
+  {
+    "model": "Porsche 911",
+    "color": "Black",
+    "owner": "Michael",
+    "year": "2030",
+    "services": [
+      "maintenance",
+      "repair",
+      "insurance"
+    ]
+  },
+  {
+    "model": "BMW M4",
+    "color": "White",
+    "owner": "Emma",
+    "year": "2025",
+    "services": [
+      "repair"
+    ]
+  },
+  {
+    "model": "Mercedes-Benz AMG GT",
+    "color": "Black",
+    "owner": "John",
+    "year": "2021",
+    "services": [
+      "verification",
+      "cleaning"
+    ]
+  },
+  {
+    "model": "Mercedes-Benz AMG GT",
+    "color": "Blue",
+    "owner": "Emma",
+    "year": "2023",
+    "services": [
+      "insurance",
+      "verification",
+      "repair"
+    ]
+  },
+  {
+    "model": "Porsche 911",
+    "color": "Black",
+    "owner": "Maria",
+    "year": "2027",
+    "services": [
+      "insurance",
+      "maintenance"
+    ]
+  },
+  {
+    "model": "Porsche 911",
+    "color": "Red",
+    "owner": "Maria",
+    "year": "2021",
+    "services": [
+      "verification",
+      "cleaning"
+    ]
+  },
+  {
+    "model": "Audi R8",
+    "color": "Red",
+    "owner": "Maria",
+    "year": "2028",
+    "services": [
+      "maintenance",
+      "insurance",
+      "repair"
+    ]
+  },
+  {
+    "model": "Lamborghini Huracan",
+    "color": "Silver",
+    "owner": "Michael",
+    "year": "2021",
+    "services": [
+      "repair",
+      "cleaning",
+      "maintenance"
+    ]
+  },
+  {
+    "model": "BMW M4",
+    "color": "Yellow",
+    "owner": "Michael",
+    "year": "2030",
+    "services": [
+      "repair"
+    ]
+  },
+  {
+    "model": "Audi R8",
+    "color": "Green",
+    "owner": "Sophia",
+    "year": "2026",
+    "services": [
+      "repair",
+      "insurance"
+    ]
+  },
+  {
+    "model": "Mercedes-Benz AMG GT",
+    "color": "Green",
+    "owner": "David",
+    "year": "2029",
+    "services": [
+      "cleaning",
+      "verification"
+    ]
+  },
+  {
+    "model": "Lamborghini Huracan",
+    "color": "White",
+    "owner": "John",
+    "year": "2025",
+    "services": [
+      "cleaning",
+      "insurance"
+    ]
+  },
+  {
+    "model": "BMW M4",
+    "color": "White",
+    "owner": "Linda",
+    "year": "2028",
+    "services": [
+      "insurance",
+      "maintenance"
+    ]
+  },
+  {
+    "model": "BMW M4",
+    "color": "White",
+    "owner": "Emma",
+    "year": "2023",
+    "services": [
+      "insurance",
+      "cleaning",
+      "verification"
+    ]
+  },
+  {
+    "model": "Porsche 911",
+    "color": "Red",
+    "owner": "Linda",
+    "year": "2025",
+    "services": [
+      "maintenance",
+      "cleaning"
+    ]
+  },
+  {
+    "model": "Mercedes-Benz AMG GT",
+    "color": "Blue",
+    "owner": "David",
+    "year": "2024",
+    "services": [
+      "repair",
+      "insurance",
+      "verification"
+    ]
+  },
+  {
+    "model": "BMW M4",
+    "color": "White",
+    "owner": "Sophia",
+    "year": "2024",
+    "services": [
+      "insurance",
+      "repair"
+    ]
+  },
+  {
+    "model": "Porsche 911",
+    "color": "Black",
+    "owner": "Emma",
+    "year": "2026",
+    "services": [
+      "verification",
+      "repair"
+    ]
+  },
+  {
+    "model": "Porsche 911",
+    "color": "Blue",
+    "owner": "Emma",
+    "year": "2021",
+    "services": [
+      "repair"
+    ]
+  },
+  {
+    "model": "Mercedes-Benz AMG GT",
+    "color": "Black",
+    "owner": "Emma",
+    "year": "2027",
+    "services": [
+      "cleaning",
+      "insurance"
+    ]
+  },
+  {
+    "model": "Audi R8",
+    "color": "Silver",
+    "owner": "Joseph",
+    "year": "2025",
+    "services": [
+      "maintenance"
+    ]
+  },
+  {
+    "model": "Mercedes-Benz AMG GT",
+    "color": "Silver",
+    "owner": "Sophia",
+    "year": "2030",
+    "services": [
+      "maintenance",
+      "repair",
+      "verification"
+    ]
+  },
+  {
+    "model": "Mercedes-Benz AMG GT",
+    "color": "Green",
+    "owner": "John",
+    "year": "2026",
+    "services": [
+      "repair",
+      "cleaning",
+      "verification"
+    ]
+  },
+  {
+    "model": "Lamborghini Huracan",
+    "color": "White",
+    "owner": "Emma",
+    "year": "2030",
+    "services": [
+      "cleaning",
+      "repair",
+      "maintenance"
+    ]
+  },
+  {
+    "model": "Lamborghini Huracan",
+    "color": "Green",
+    "owner": "John",
+    "year": "2026",
+    "services": [
+      "repair"
+    ]
+  },
+  {
+    "model": "Porsche 911",
+    "color": "Silver",
+    "owner": "Linda",
+    "year": "2023",
+    "services": [
+      "cleaning"
+    ]
+  },
+  {
+    "model": "BMW M4",
+    "color": "Black",
+    "owner": "John",
+    "year": "2023",
+    "services": [
+      "verification",
+      "insurance"
+    ]
+  },
+  {
+    "model": "BMW M4",
+    "color": "Blue",
+    "owner": "Maria",
+    "year": "2029",
+    "services": [
+      "repair",
+      "verification",
+      "cleaning"
+    ]
+  },
+  {
+    "model": "BMW M4",
+    "color": "Black",
+    "owner": "Maria",
+    "year": "2020",
+    "services": [
+      "cleaning"
+    ]
+  },
+  {
+    "model": "Lamborghini Huracan",
+    "color": "White",
+    "owner": "Emma",
+    "year": "2030",
+    "services": [
+      "repair",
+      "insurance",
+      "verification"
+    ]
+  },
+  {
+    "model": "Lamborghini Huracan",
+    "color": "Red",
+    "owner": "Maria",
+    "year": "2027",
+    "services": [
+      "repair",
+      "cleaning"
+    ]
+  },
+  {
+    "model": "Audi R8",
+    "color": "Silver",
+    "owner": "Emma",
+    "year": "2021",
+    "services": [
+      "repair",
+      "verification",
+      "insurance"
+    ]
+  },
+  {
+    "model": "BMW M4",
+    "color": "White",
+    "owner": "John",
+    "year": "2026",
+    "services": [
+      "insurance"
+    ]
+  },
+  {
+    "model": "BMW M4",
+    "color": "Yellow",
+    "owner": "Linda",
+    "year": "2030",
+    "services": [
+      "repair",
+      "verification"
+    ]
+  },
+  {
+    "model": "Audi R8",
+    "color": "Black",
+    "owner": "David",
+    "year": "2028",
+    "services": [
+      "insurance"
+    ]
+  },
+  {
+    "model": "Lamborghini Huracan",
+    "color": "Red",
+    "owner": "David",
+    "year": "2026",
+    "services": [
+      "maintenance"
+    ]
+  },
+  {
+    "model": "Audi R8",
+    "color": "Silver",
+    "owner": "Joseph",
+    "year": "2021",
+    "services": [
+      "cleaning",
+      "maintenance"
+    ]
+  },
+  {
+    "model": "Porsche 911",
+    "color": "White",
+    "owner": "Sophia",
+    "year": "2030",
+    "services": [
+      "insurance",
+      "repair",
+      "cleaning"
+    ]
+  },
+  {
+    "model": "Lamborghini Huracan",
+    "color": "Yellow",
+    "owner": "John",
+    "year": "2027",
+    "services": [
+      "repair",
+      "cleaning"
+    ]
+  },
+  {
+    "model": "Audi R8",
+    "color": "Green",
+    "owner": "Michael",
+    "year": "2029",
+    "services": [
+      "cleaning"
+    ]
+  },
+  {
+    "model": "Lamborghini Huracan",
+    "color": "Red",
+    "owner": "Linda",
+    "year": "2028",
+    "services": [
+      "repair",
+      "insurance",
+      "maintenance"
+    ]
+  },
+  {
+    "model": "Mercedes-Benz AMG GT",
+    "color": "White",
+    "owner": "Linda",
+    "year": "2021",
+    "services": [
+      "insurance"
+    ]
+  },
+  {
+    "model": "Lamborghini Huracan",
+    "color": "Silver",
+    "owner": "John",
+    "year": "2020",
+    "services": [
+      "repair"
+    ]
+  },
+  {
+    "model": "Porsche 911",
+    "color": "Blue",
+    "owner": "Maria",
+    "year": "2020",
+    "services": [
+      "verification",
+      "repair",
+      "insurance"
+    ]
+  },
+  {
+    "model": "Audi R8",
+    "color": "Silver",
+    "owner": "Sophia",
+    "year": "2027",
+    "services": [
+      "repair"
+    ]
+  },
+  {
+    "model": "Porsche 911",
+    "color": "Red",
+    "owner": "Linda",
+    "year": "2023",
+    "services": [
+      "verification"
+    ]
+  },
+  {
+    "model": "Porsche 911",
+    "color": "Silver",
+    "owner": "Maria",
+    "year": "2028",
+    "services": [
+      "maintenance",
+      "cleaning",
+      "insurance"
+    ]
+  },
+  {
+    "model": "BMW M4",
+    "color": "Red",
+    "owner": "Linda",
+    "year": "2025",
+    "services": [
+      "insurance"
+    ]
+  },
+  {
+    "model": "Porsche 911",
+    "color": "Silver",
+    "owner": "Linda",
+    "year": "2023",
+    "services": [
+      "insurance",
+      "repair",
+      "cleaning"
+    ]
+  },
+  {
+    "model": "Lamborghini Huracan",
+    "color": "Blue",
+    "owner": "John",
+    "year": "2026",
+    "services": [
+      "repair",
+      "cleaning"
+    ]
+  },
+  {
+    "model": "Lamborghini Huracan",
+    "color": "Yellow",
+    "owner": "Joseph",
+    "year": "2021",
+    "services": [
+      "maintenance",
+      "repair"
+    ]
+  },
+  {
+    "model": "Audi R8",
+    "color": "Green",
+    "owner": "Emma",
+    "year": "2025",
+    "services": [
+      "repair",
+      "maintenance",
+      "insurance"
+    ]
+  },
+  {
+    "model": "Audi R8",
+    "color": "Silver",
+    "owner": "Linda",
+    "year": "2020",
+    "services": [
+      "repair",
+      "verification",
+      "maintenance"
+    ]
+  },
+  {
+    "model": "BMW M4",
+    "color": "Silver",
+    "owner": "David",
+    "year": "2024",
+    "services": [
+      "repair",
+      "cleaning",
+      "maintenance"
+    ]
+  },
+  {
+    "model": "Audi R8",
+    "color": "Red",
+    "owner": "Joseph",
+    "year": "2025",
+    "services": [
+      "repair"
+    ]
+  },
+  {
+    "model": "Audi R8",
+    "color": "Silver",
+    "owner": "Emma",
+    "year": "2023",
+    "services": [
+      "maintenance",
+      "cleaning",
+      "insurance"
+    ]
+  },
+  {
+    "model": "Porsche 911",
+    "color": "Yellow",
+    "owner": "Maria",
+    "year": "2020",
+    "services": [
+      "verification",
+      "maintenance",
+      "cleaning"
+    ]
+  },
+  {
+    "model": "Porsche 911",
+    "color": "Red",
+    "owner": "Sophia",
+    "year": "2026",
+    "services": [
+      "insurance"
+    ]
+  }
+]
